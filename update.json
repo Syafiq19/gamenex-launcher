@@ -2,12 +2,12 @@
   "releases": [
     {
       "version": "1.1.0",
-      "download_url": "https://raw.githubusercontent.com/Syafiq19/repo/main/GameNex_v1.1.0.gnx",
+      "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy1.gnx",
       "release_notes": "Added new features and bug fixes"
     },
     {
       "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/Syafiq19/repo/main/GameNex_v1.0.0.gnx",
+      "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy.gnx",
       "release_notes": "First Version Of GameNex"
     }
   ]
