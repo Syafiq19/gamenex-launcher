@@ -1,5 +1,14 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/username/repo/releases/latest",
-  "release_notes": "First Version Of GameNex"
+  "releases": [
+    {
+      "version": "1.1.0",
+      "download_url": "https://github.com/username/repo/releases/download/v1.1.0/GameNex_v1.1.0.gnx",
+      "release_notes": "Added new features and bug fixes"
+    },
+    {
+      "version": "1.0.0",
+      "download_url": "https://github.com/username/repo/releases/download/v1.0.0/dummy.gnx",
+      "release_notes": "First Version Of GameNex"
+    }
+  ]
 }
