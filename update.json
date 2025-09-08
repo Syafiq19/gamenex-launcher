@@ -1,14 +1,14 @@
 {
   "releases": [
     {
-      "version": "1.1.0",
+      "version": "0.2.0",
       "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy1.gnx",
-      "release_notes": "TEST UPDATE"
+      "release_notes": "PRE-RELEASE ALPHA 0.2"
     },
     {
-      "version": "1.0.0",
+      "version": "0.1.0",
       "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy.gnx",
-      "release_notes": "DIRST RELEASE"
+      "release_notes": "PRE-RELEASE ALPHA 0.1"
     }
   ]
 }
