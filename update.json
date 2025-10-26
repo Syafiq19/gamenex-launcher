@@ -1,14 +1,14 @@
 {
   "releases": [
     {
-      "version": "0.2.0",
-      "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy1.gnx",
-      "release_notes": "PRE-RELEASE ALPHA 0.2"
+      "version": "1.0",
+      "download_url": "https://www.dropbox.com/scl/fi/ls15lgaxju4122k3m9ik6/Timnas-Indonesia-Themes.zip?rlkey=au9kxelvbcj988ks9e4ykqab3&st=q6qfc1gj&dl=1",
+      "release_notes": "Timnas Indonesia (GM)"
     },
     {
-      "version": "0.1.0",
-      "download_url": "https://raw.githubusercontent.com/Syafiq19/gamenex-launcher/refs/heads/main/dummy.gnx",
-      "release_notes": "PRE-RELEASE ALPHA 0.1"
+      "version": "1.0",
+      "download_url": "",
+      "release_notes": "FC Barcelona"
     }
   ]
 }
