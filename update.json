@@ -1,14 +1,9 @@
 {
   "releases": [
     {
-      "version": "1.0",
-      "download_url": "https://www.dropbox.com/scl/fi/ls15lgaxju4122k3m9ik6/Timnas-Indonesia-Themes.zip?rlkey=au9kxelvbcj988ks9e4ykqab3&st=q6qfc1gj&dl=1",
-      "release_notes": "Timnas Indonesia (GM)"
-    },
-    {
-      "version": "1.0",
-      "download_url": "",
-      "release_notes": "FC Barcelona"
+      "version": "2.0",
+      "download_url": "https://www.dropbox.com/scl/fi/g4d2vt628nmmavr69tptw/GameNex-18-PRE-RELEASE-ALPHA.exe?rlkey=ujzdhlyfeg5moocx6e60ogwqi&st=ivvtlqai&dl=1",
+      "release_notes": "Launcher 2.0"
     }
   ]
 }
